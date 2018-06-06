@@ -1,0 +1,19 @@
+.top{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	font-size: 20px;
+}
+
+
+.bottom{
+	margin-top: 10vh;
+	font-size: 50px;
+}
+
+
+.gen{
+	margin-top: 5vh;
+	margin-left: 5vh;
+	margin-right: 5vh;
+}
