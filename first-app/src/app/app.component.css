@@ -17,3 +17,9 @@
 	margin-left: 5vh;
 	margin-right: 5vh;
 }
+
+.content_top{
+	margin-top: 10vh;
+	font-size: 20px;
+	display: flex;
+}
