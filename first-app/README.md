@@ -11,6 +11,6 @@ _____________________________
 
 git command
 
-git add .
-git commit -m "message"
-git push origin master
+#git add .
+#git commit -m "message"
+#git push origin master
